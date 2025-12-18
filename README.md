@@ -2,4 +2,4 @@
 
 # 231080200103/ Muhammad Ibramansah/ Tugas-Praktikum Restful API
 
-<img width="310" height="459" alt="image" src="https://github.com/user-attachments/assets/8899938b-df60-44a3-9cde-1ecd5c5138ad" />
+<img width="1004" height="818" alt="image" src="https://github.com/user-attachments/assets/d5f62d30-614b-42f3-883d-90415377f05c" />
